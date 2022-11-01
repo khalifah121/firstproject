@@ -1,0 +1,177 @@
+body{
+    background-color: #3598dc;
+}
+div{
+    background-color: #fff;
+    border-radius:15px 15px;
+    width:35%;
+    margin-left:25%;
+    margin-top:7%;
+    padding:50px;
+    height:50%;
+}
+@media only screen and (max-width:760px){
+    div{
+        width:55%;
+        border-radius:20px;
+        margin-top:15%;
+        margin-left:15%;
+        padding:40px;
+    }
+}
+h4{
+    color:#92918f;
+}
+.boot1{
+    border-radius:15px 15px;
+    padding:7px;
+    margin:7px;
+    border:none;
+    background-color: #f2f2f2;
+}
+@media only screen and (max-width:760px){
+    .boot1{
+        border-radius:15px;
+        background-color:#f2f2f2;
+        border:none;
+        padding:8px;
+        margin-bottom:15px;
+    }
+}
+.boot2{
+    border-radius:15px 15px;
+    padding:7px;
+    margin:7px;
+    border:none;
+    background-color: #f2f2f2;
+}
+@media only screen and (max-width:760px){
+    .boot2{
+        border-radius:15px;
+        background-color:#f2f2f2;
+        border:none;
+        padding:8px;
+        margin-bottom:15px;
+    }
+}
+.boot3{
+    border-radius:15px 15px;
+    padding:7px;
+    margin:7px;
+    padding-right:210px;
+    border:none;
+    background-color: #f2f2f2;
+}
+@media only screen and (max-width:760px){
+    .boot3{
+        border-radius:15px;
+        background-color:#f2f2f2;
+        border:none;
+        padding:8px;
+        margin-bottom:15px;
+        width:90%;
+    }
+}
+.boot4{
+    border-radius:15px 15px;
+    padding:7px;
+    margin:7px;
+    padding-right:210px;
+    border:none;
+    background-color: #f2f2f2;
+}
+@media only screen and (max-width:760px){
+    .boot4{
+        border-radius:15px;
+        background-color:#f2f2f2;
+        border:none;
+        padding:8px;
+        margin-bottom:15px;
+        width:90%;
+    }
+}
+.boot5{
+    
+    border-radius:15px 15px;
+    padding:7px;
+    margin:7px;
+    padding-right:210px;
+    border:none;
+    background-color: #f2f2f2;
+}
+@media only screen and (max-width:760px){
+    .boot5{
+        border-radius:15px;
+        background-color:#f2f2f2;
+        border:none;
+        padding:8px;
+        margin-bottom:15px;
+        width:90%;
+    }
+}
+.span1{
+    color: #92918f;
+}
+@media only screen and (max-width:760px){
+    .span1{
+        color: #92918f;
+    }
+}
+span{
+    color: #2a66b7;
+}
+@media only screen and (max-width:760px){
+    span{
+        color: #2a66b7 ;
+    }
+}
+.span2{
+    color: #92918f;
+}
+@media only screen and (max-width:760px){
+    .span2{
+        color: #92918f;
+    }
+}
+button{
+    color: #fcffff;
+    background-color: #3598dc;
+    border:none;
+    margin-inline-start:10px;
+    margin-top:20px;
+    padding:10px;
+    padding-left:40px;
+    padding-right:45px;
+}
+@media only screen and (max-width:760px){
+    button{
+        background-color: #3598dc;
+        border:none;
+        color: #fff;
+        padding:10px 40px;
+        margin-top:20px;
+        margin-left:10px;
+    }
+}
+p{
+    text-align:center;
+    margin-right:20%;
+    color:#fff;
+}
+@media only screen and (max-width:760px){
+    p{
+        text-align: center;
+        margin-right:5%;
+        color:#fff;
+    }
+}
+a{
+    color: #fff;
+    text-decoration:none;
+}
+
+
+
+
+
+

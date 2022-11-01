@@ -1,0 +1,136 @@
+body{
+    background-color:deeppink;
+}
+form{
+    background-color:white;
+    width: 30%;
+    margin-bottom:40%;
+    margin-left:40%;
+    padding:50px 0px 70px 30px;
+
+}
+@media only screen and (max-width: 760px){
+    form{
+        background-color:white;
+        padding-left:3%;
+        padding-top:40px;
+        padding-bottom:50px;
+    }
+}
+div{
+    width:85%;
+    margin-top:12%;
+}
+@media only screen and (max-width:760px){
+    div{
+        width:150%;
+        margin-left:10%;
+        margin-top:20%;
+    }
+}
+h2{
+    margin-left:78px;
+    margin-bottom:20px;
+    font-size:30px;
+
+}
+@media only screen and (max-width:760px){
+    h2{
+        font-size:30px;
+        margin-bottom:30px;
+        margin-left:50px;
+    }
+}
+.Abu{
+    padding-left:10px;
+    margin-bottom:10px;
+    padding-top:5px;
+    width:88%;
+    padding-bottom:5px;
+    
+}
+@media only screen and (max-width:760px){
+    .Abu{
+        padding-left:10px;
+        margin-bottom:10px;
+        padding-top:5px;
+        padding-bottom:5px;
+        width:85%;
+    }
+}
+.fawaz{
+    padding-left:10px;
+    margin-bottom:10px;
+    padding-top:5px;
+    width:88%;
+    padding-bottom:5px;
+}
+@media only screen and (max-width:760px){
+    .fawaz{
+        padding-left:10px;
+        margin-bottom:10px;
+        padding-top:5px;
+        padding-bottom:5px;
+        width:85%;
+    }
+}
+.faizol{
+    border:none;
+    color: deeppink;
+    margin-bottom:5px;
+    background-color:rgb(250, 245, 240);
+    padding-top:10px;
+}
+@media only screen and (max-width:760px){
+    .faizol{
+        border:none;
+        color:deeppink;
+    }
+}
+.samad{
+    border:150px;
+    color:white;
+    background-color:deeppink;
+    margin-top:15px;
+    text-align: center;
+    width:320px;
+    padding-left:6px;
+    margin-bottom:20px;
+    padding-bottom:10px;
+    padding-top:10px;
+    font-size:15px;
+}
+@media only screen and (max-width:760px){
+    .samad{
+        color:white;
+        border: none;
+        font-size:15px;
+        background-color:deeppink;
+        width:90%;
+    }
+    /*.samad{
+        color:white;
+        border:none;
+        background-color:deeppink;
+        margin-top:10px;
+        margin-inline-start:5px;
+        padding:13px 37% 13px 37%;
+        border-radius:5px;
+        font-size:16px;
+        margin-bottom:20px;
+    }*/
+}
+span{
+    text-align: center;
+    margin-left:50px;
+}
+@media only screen and (max-width:760px){
+    span{
+        margin-left:50px;
+    }
+}
+a{
+    text-decoration: none;
+    color: deeppink;
+}
+
